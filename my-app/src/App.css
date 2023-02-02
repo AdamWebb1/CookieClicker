@@ -1,0 +1,16 @@
+/* body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  line-height: 1.4;
+  height: 100;
+  color: rgb(65, 65, 65);
+  backround: #fff;
+  height: 100vh;
+}  */
+
+
+.all {
+    height: '50%';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
